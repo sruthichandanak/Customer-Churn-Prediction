@@ -59,6 +59,7 @@ Customer churn is a major issue in the telecom industry. Retaining customers is 
 
 ## SHAP Explainability
 SHAP values were used to interpret which features most influenced customer churn, helping the business make actionable decisions.
+![SHAP Summary Plot](shap.png)
 
 ---
 
