@@ -24,6 +24,7 @@ Customer churn is a major issue in the telecom industry. Retaining customers is 
 - **Python 3**
 - `pandas`, `numpy` for data wrangling
 - `seaborn`, `matplotlib` for EDA & visualization
+- ![Visualization using EDA](eda.png)
 - `scikit-learn` for machine learning
 - `SHAP` for model explainability
 - `joblib` to save the final model
@@ -54,6 +55,7 @@ Customer churn is a major issue in the telecom industry. Retaining customers is 
 - `TotalCharges`
 - `Contract_TwoYear`
 - `PaymentMethod_ElectronicCheck`
+- ![Feature Selection](feature.png)
 
 ---
 
@@ -65,5 +67,6 @@ SHAP values were used to interpret which features most influenced customer churn
 
 ## Model Saving
 - The final trained model is saved using `joblib` .
+- ![Final Confusion Matrix](finalmodel.png)
   
 
